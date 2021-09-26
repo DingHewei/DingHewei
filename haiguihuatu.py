@@ -6,6 +6,8 @@ turtle.color('red')    #改变箭头颜色
 turtle.left(90)       #箭头左转90度
 turtle.forward(50)
 turtle.left(90)
+
+
 turtle.forward(50)
 turtle.goto(0,100)   #直接到点（0,50）
 turtle.penup()     #抬笔
